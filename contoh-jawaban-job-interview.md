@@ -1,29 +1,29 @@
 ## 1.1 Latar Belakang
-
-bla bla bla
+furhes mountain  adalah websait e-commerce , yang menawarkan produk atau barang peralatan untuk mendaki gunung  contoh (tas carrier , sepatu gunung,headlamp,tenda,dll)
+Website ini menawarkan kemudahan untuk belanja secara online terutama untuk para pencinta gunung dan Website ini bertujuan untuk memberikan kemudahan dalam jual beli produk
 
 ## 1.2. Deksripsi Teknologi Informasi
-
-bla bla bla
+Website e-commerce dan teknologi informasi saling terkait erat. Teknologi informasi digunakan untuk mengembangkan, mengamankan, dan mengelola website e-commerce, termasuk manajemen inventori, pembayaran online, analitik web, integrasi sistem, responsivitas mobile, SEO, serta layanan pelanggan. Ini membuat teknologi informasi menjadi tulang punggung bagi operasi website e-commerce, memungkinkan bisnis menjalankan operasi online mereka dengan efisien dan memberikan pengalaman berbelanja yang baik bagi pelanggan.
 
 ## 1.3. Branding
-
-bla bla bla
+website ini cocok untuk para pencinta gununung yang mana website ini menyediakan peralatan atau logistik mendaki gunung
 
 ## 2. User Story
 
-bla | bla | bla | bla
----|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
-
+Sebagai  | Bisa Melakukan | Sehingga  | Prioritas
+---|---  |---|---
+Pengguna | Membeli produk | Bisa membeli produk | ⭐⭐⭐⭐⭐
+Pengguna | Melihat gambar dan harga produk | Bisa melihat lihat produk | ⭐⭐⭐⭐⭐
+Pengguna | mencari produk | Bisa mencari produk yang di inginkan dengan mudah | ⭐⭐⭐⭐⭐
+Pengguna | login | sehinnga pengguna dapet mengatur alam pengiriman dan menyimpan barang (keranjang)| ⭐⭐⭐⭐⭐
 ## 3. Struktur Data
 
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
 
 ```mermaid
 erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
+    TASCARIEL ||--o{ BARANG : tersusun
+    PEMBELI ||--|{ TASCARIEL : beli
 ```
 
 ## 4. Arsitektur Sistem
